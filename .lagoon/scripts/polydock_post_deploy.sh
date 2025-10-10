@@ -30,16 +30,16 @@ if [ ! -f "$LOCKFILE" ]; then
 
   cd /app
 
-  if [ -f "$POLYDOCK_APP_IMAGE_DB_FILENAME" ]; then
-    echo "Removing collation from DB ..."
-    sed -i 's/COLLATE=utf8mb3_uca1400_ai_ci[ ].*;//g' $POLYDOCK_APP_IMAGE_DB_FILENAME
-    sed -i 's/COLLATE=utf8mb4_uca1400_ai_ci[ ].*;//g' $POLYDOCK_APP_IMAGE_DB_FILENAME
-    echo "Loading database image"
-    cat $POLYDOCK_APP_IMAGE_DB_FILENAME | drush sql-cli
-    echo "Database image loaded"
-  else
-    echo "There is no database image at: $POLYDOCK_APP_IMAGE_DB_FILENAME"
-  fi;
+    if [ -f "$POLYDOCK_APP_IMAGE_DB_FILENAME" ]; then
+        echo "Removing collation from DB ..."
+        sed -i 's/COLLATE=utf8mb3_uca1400_ai_ci.*;/;/g' $POLYDOCK_APP_IMAGE_DB_FILENAME
+        sed -i 's/COLLATE=utf8mb4_uca1400_ai_ci.*;/;/g' $POLYDOCK_APP_IMAGE_DB_FILENAME
+        echo "Loading database image"
+        cat $POLYDOCK_APP_IMAGE_DB_FILENAME | drush sql-cli
+        echo "Database image loaded"
+    else
+        echo "There is no database image at: $POLYDOCK_APP_IMAGE_DB_FILENAME"
+    fi;
 
   if [ ! -z "$AI_LLM_API_TOKEN" ]; then
     echo "Importing amazee Private AI keys"
