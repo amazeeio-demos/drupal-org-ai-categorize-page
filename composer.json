@@ -17,9 +17,9 @@
     "require": {
         "amazeeio/drupal_integrations": "^0.5",
         "cweagans/composer-patches": "^2",
-        "drupal/ai_provider_amazeeio_recipe": "^1.1",
-        "drupal/amazeeio_categorize_page": "^1.0",
-        "drupal/cms": "^1.2.4",
+        "drupal/ai_provider_amazeeio_recipe": "^1.2",
+        "drupal/amazeeio_categorize_page": "^1.2",
+        "drupal/cms": "^1.2",
         "drupal/lagoon_logs": "^3.0"
     },
     "conflict": {
@@ -49,29 +49,35 @@
             }
         },
         "installer-paths": {
-            "web/core": ["type:drupal-core"],
-            "web/libraries/{$name}": ["type:drupal-library"],
-            "web/modules/contrib/{$name}": ["type:drupal-module"],
-            "web/profiles/contrib/{$name}": ["type:drupal-profile"],
-            "web/themes/contrib/{$name}": ["type:drupal-theme"],
-            "drush/Commands/contrib/{$name}": ["type:drupal-drush"],
-            "web/modules/custom/{$name}": ["type:drupal-custom-module"],
-            "web/profiles/custom/{$name}": ["type:drupal-custom-profile"],
-            "web/recipes/{$name}": ["type:drupal-recipe"],
-            "web/themes/custom/{$name}": ["type:drupal-custom-theme"]
-        },
-        "drupal-core-project-message": {
-            "include-keys": ["homepage", "support"],
-            "post-create-project-cmd-message": [
-                "<bg=blue;fg=white>                                                   </>",
-                "<bg=blue;fg=white>  Congratulations, you’ve installed Drupal CMS!    </>",
-                "<bg=blue;fg=white>                                                   </>",
-                "",
-                "<bg=yellow;fg=black>Next steps</>:",
-                "  * Run <fg=yellow>composer quick-start</> to initialize Drupal CMS and open it in a browser",
-                "  * Read the user guide: https://www.drupal.org/docs/user_guide/en/index.html",
-                "  * Get support: https://drupal.org/support",
-                "  * Get involved with the Drupal community: https://drupal.org/getting-involved"
+            "web/core": [
+                "type:drupal-core"
+            ],
+            "web/libraries/{$name}": [
+                "type:drupal-library"
+            ],
+            "web/modules/contrib/{$name}": [
+                "type:drupal-module"
+            ],
+            "web/profiles/contrib/{$name}": [
+                "type:drupal-profile"
+            ],
+            "web/themes/contrib/{$name}": [
+                "type:drupal-theme"
+            ],
+            "drush/Commands/contrib/{$name}": [
+                "type:drupal-drush"
+            ],
+            "web/modules/custom/{$name}": [
+                "type:drupal-custom-module"
+            ],
+            "web/profiles/custom/{$name}": [
+                "type:drupal-custom-profile"
+            ],
+            "web/recipes/{$name}": [
+                "type:drupal-recipe"
+            ],
+            "web/themes/custom/{$name}": [
+                "type:drupal-custom-theme"
             ]
         }
     }
