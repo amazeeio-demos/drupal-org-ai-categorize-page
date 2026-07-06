@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e939b485-ca10-4061-9036-3d6d394d7214
+  bundle: page
+  default_langcode: en
+  depends:
+    f349ca9e-74d7-4746-bea9-c1537e3d9e43: taxonomy_term
+    70fad926-4dbb-4672-89e3-ada06de26670: taxonomy_term
+    317a8987-ef55-4c06-a92d-b4ba968a78d6: taxonomy_term
+    09500c7a-6236-4323-8ea7-7eaeb1c2c892: taxonomy_term
+    36c4a03c-05d6-4107-8795-35bf0adc5942: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Home
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  path:
+    -
+      alias: /instructions
+      langcode: en
+      pathauto: 0
+  ai_automator_status:
+    -
+      value: processing
+  field_category:
+    -
+      entity: f349ca9e-74d7-4746-bea9-c1537e3d9e43
+    -
+      entity: 70fad926-4dbb-4672-89e3-ada06de26670
+    -
+      entity: 317a8987-ef55-4c06-a92d-b4ba968a78d6
+  field_content:
+    -
+      value: '<drupal-media data-entity-type="media" data-entity-uuid="bce49bf0-2d11-48b0-9812-12e8834997de">&nbsp;</drupal-media><p><strong>Welcome </strong>to your fully-configured free trial environment. Transform your content workflow with AI tools built right into the editor. Your site comes pre-configured with everything you need to test drive the future of Drupal AI.</p><h2 dir="ltr">How-to Guide</h2><h3>Using the AI Content Assistant</h3><p dir="ltr"><strong>Step 1 - Create Basic Page:</strong> In the left-hand navigation of this site, hover over ''Create'' and click on ''Basic page''.</p><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="17f3a34b-1388-467b-9974-9d085eab6a76">&nbsp;</drupal-media></td></tr></tbody></table><p dir="ltr"><strong>Step 2 - Populate Content:</strong> You will see a blank screen where you can start adding your content. For your convenience, here are some content examples you can use to test the feature.</p><ol><li dir="ltr" data-list-item-id="e90f8b5cc1978b049af0f3a05ab77a624"><a href="https://letterboxd.com/journal/bong-hit-parasite/">https://letterboxd.com/journal/bong-hit-parasite/</a></li><li dir="ltr" data-list-item-id="e0de49ba8c509f5294695469bcde7080c"><a href="https://letterboxd.com/journal/bong-joon-ho-ranking/">https://letterboxd.com/journal/bong-joon-ho-ranking/</a></li><li dir="ltr" data-list-item-id="ea962dcb80d5da6cbc6a7ab9753e4c09b"><a href="https://letterboxd.com/journal/sxsw-2025-festival-preview/">https://letterboxd.com/journal/sxsw-2025-festival-preview/</a></li><li dir="ltr" data-list-item-id="e6dd33b8856282f10a61157dd9b17e42a"><a href="https://letterboxd.com/journal/most-picture-dune-part-two-denis-villeneuve/">https://letterboxd.com/journal/most-picture-dune-part-two-denis-villeneuve/</a></li><li dir="ltr" data-list-item-id="e1a7c397d068dec289db74c55126a39ac"><a href="https://letterboxd.com/journal/watchlist-this-february-2025/">https://letterboxd.com/journal/watchlist-this-february-2025/</a></li></ol><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="f33d207d-d5d9-4c28-80a8-956248486b39">&nbsp;</drupal-media></td></tr></tbody></table><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="29f9b6a2-ee13-4151-9586-79daa21a6b82">&nbsp;</drupal-media></td></tr></tbody></table><p dir="ltr"><strong>Step 3 - Empty Categories and Themes:</strong> In the editor view, at the bottom of the page you will see tags, categories and themes. There is no need to select these manually - these will be populated automatically using AI.</p><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="c6c9c3fa-4bc5-456f-b9d6-1cac06a205d8">&nbsp;</drupal-media></td></tr></tbody></table><p><strong>Step 4 - Save the Page</strong></p><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="c5cc737d-8780-4a15-98a4-ea72434846e9">&nbsp;</drupal-media></td></tr></tbody></table><p dir="ltr"><strong>Step 5 - See the AI Automator in Action</strong></p><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="9f5e99a0-2a29-47cc-b563-d874a2975554">&nbsp;</drupal-media></td></tr></tbody></table><p><strong>Step 6 - View the AI-generated taxonomies:</strong> Navigate back to the edit experience of the page, scroll down and see the tags, themes, and categories that have been selected by the AI.</p><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="d8627603-929e-4118-9f07-40ec0379495a">&nbsp;</drupal-media></td></tr></tbody></table><table class="table"><tbody><tr><td><drupal-media data-entity-type="media" data-entity-uuid="e0cc3ad9-7b37-49e7-9064-374a57fab80d">&nbsp;</drupal-media></td></tr></tbody></table><p><strong>Step 7 - Success!</strong> You have used AI to improve your daily workflow.</p>'
+      format: content_format
+  field_description:
+    -
+      value: 'How-to guide'
+  field_tags:
+    -
+      entity: 09500c7a-6236-4323-8ea7-7eaeb1c2c892
+  field_themes:
+    -
+      entity: 36c4a03c-05d6-4107-8795-35bf0adc5942

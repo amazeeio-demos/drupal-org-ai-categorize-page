@@ -1,0 +1,35 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 17f3a34b-1388-467b-9974-9d085eab6a76
+  bundle: image
+  default_langcode: en
+  depends:
+    e55891b1-c5b4-4438-845a-2fbdb9483e0f: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: create-basic-page.png
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: create-basic-page
+      title: ''
+      width: 408
+      height: 264
+      entity: e55891b1-c5b4-4438-845a-2fbdb9483e0f

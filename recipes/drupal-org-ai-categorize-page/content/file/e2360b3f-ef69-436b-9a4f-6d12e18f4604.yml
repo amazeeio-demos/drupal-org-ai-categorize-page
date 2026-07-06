@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: e2360b3f-ef69-436b-9a4f-6d12e18f4604
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: edit.png
+  uri:
+    -
+      value: 'public://2026-06/edit.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 34029
+  status:
+    -
+      value: true

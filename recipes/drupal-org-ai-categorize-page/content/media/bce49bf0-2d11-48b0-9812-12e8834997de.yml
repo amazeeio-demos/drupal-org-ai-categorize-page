@@ -1,0 +1,29 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: bce49bf0-2d11-48b0-9812-12e8834997de
+  bundle: remote_video
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Try Drupal AI - Categorization'
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_oembed_video:
+    -
+      value: 'https://youtu.be/TnlgXdttO44'
