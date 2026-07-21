@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 518713ce-6cc7-436f-ab60-70fefebaea86
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: populated-categories.png
+  uri:
+    -
+      value: 'public://2026-06/populated-categories.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 183469
+  status:
+    -
+      value: true

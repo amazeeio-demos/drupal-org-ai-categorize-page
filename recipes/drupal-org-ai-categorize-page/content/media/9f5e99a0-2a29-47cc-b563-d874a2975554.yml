@@ -1,0 +1,35 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 9f5e99a0-2a29-47cc-b563-d874a2975554
+  bundle: image
+  default_langcode: en
+  depends:
+    b584a8fc-5225-4a85-8ff2-fada401d4379: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: ai-automator.png
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: ai-automator
+      title: ''
+      width: 1600
+      height: 395
+      entity: b584a8fc-5225-4a85-8ff2-fada401d4379

@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ade1197c-a0df-4f5e-836e-02cb96cdb2fa
+  bundle: page
+  default_langcode: en
+  depends:
+    529f3f80-613a-46a6-a9bc-763b0720f120: taxonomy_term
+    bc3bf97c-88df-4f9f-ab2d-6e4037b0973d: taxonomy_term
+    09500c7a-6236-4323-8ea7-7eaeb1c2c892: taxonomy_term
+    74923176-a5ec-432f-8b43-558af5bd48c7: taxonomy_term
+    72e66d29-ccbf-47bb-86f8-1e5a9be187fc: taxonomy_term
+    e22c2680-5600-4162-a967-ed96a8c45c41: taxonomy_term
+    36c4a03c-05d6-4107-8795-35bf0adc5942: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'The Assessment Review: Elizabeth Olsen and Alicia Vikander lead this surreal sci-fi tale'
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: draft
+  path:
+    -
+      alias: /assessment-review-elizabeth-olsen-and-alicia-vikander-lead-surreal-sci-fi-tale-0
+      langcode: en
+  ai_automator_status:
+    -
+      value: processing
+  field_category:
+    -
+      entity: 529f3f80-613a-46a6-a9bc-763b0720f120
+  field_content:
+    -
+      value: '<p dir="ltr"><strong>Plot</strong>: In the near future where parenthood is strictly controlled, a couple’s seven-day assessment for the right to have a child unravels into a psychological nightmare, forcing them to question the very foundations of their society and what it truly means to be human.</p><p dir="ltr"><strong>Review</strong>: I love a good science fiction movie that does not rely on spaceships or robots to deliver a convincing and chilling portrait of a plausible near future. Some of the best episodes of&nbsp;<em>Black Mirror&nbsp;</em>have been the ones that are not too far from the technological reality we are already living in. The new film&nbsp;<em>The Assessment&nbsp;</em>takes the climate-ravaged future of Christopher Nolan’s<a href="https://www.joblo.com/christopher-nolan-movies-ranked/">&nbsp;<em>Interstellar</em></a> and combines it with the technological dystopia of<a href="https://www.joblo.com/ex-machina-movie-review-119/"><em>&nbsp;Ex Machina</em></a><em>&nbsp;</em>with a dollop of&nbsp;<em>The Handmaid’s Tale&nbsp;</em>mixed in for good measure. Led by fantastic performances from Elizabeth Olsen and Himesh Patel alongside a startingly original character played by Alicia Vikander,&nbsp;<em>The Assessment&nbsp;</em>has bold aspirations in telling a cautionary tale that comes close to delivering but may have been too ambitious for its own good. With spurts of brilliance,&nbsp;<em>The Assessment&nbsp;</em>is a good movie that could have been great but sometimes struggles with the scope of the message it is trying to convey.</p><p dir="ltr"><em>The Assessment</em> posits a near future where the world has barely gotten past a cataclysmic global shift due to climate change. With mankind struggling to survive, the opportunity to have a child is closely controlled by a government agency that decides when and if a couple can procreate. Married scientists Mia (Elizabeth Olsen) and Aaryan (Himesh Patel) have been approved for the process, which will involve Virginia (Alicia Vikander) staying with them in their remote home to put them through a battery of tests. What begins as a series of interviews transforms into a bizarre series of role-playing exercises, psychological tests, and unfair challenges that stretch the boundaries of their marriage and relationship. Virgina, one of the government’s top assessors, transforms herself into a child and pushes every conceivable button that MIa and Aaryan have. It is a surreal week of obstacles that is darkly funny and depressingly close to what it is like to be a parent.</p><p dir="ltr">The future setting of this world paints a bleak portrait, and we glimpse more in the background shots and the passing comments from the characters. We see something shot into the atmosphere reminiscent of cloud seeding, and we hear the mention that pets are no longer allowed. All meals are comprised of vegetables Mia grows in her greenhouse and Aaryan is working on a technology that allows the artificial creation of living creatures to interact with. There also appears to be a method for extending human life, with some characters multiple decades older than they physically appear. These little hints add to the eerie sci-fi atmosphere of<em> The Assessment&nbsp;</em>without directly influencing the main plot. We learn that Mia’s parents have been exiled from the civilized society that enforces assessment, but not much more than that. The main focus of this story is to show the fitness of Aaryan and Mia as parents, which Virginia pushes to the brink. These exercises themselves require Mia and Aaryan to invest in the fantasy of roleplaying as parents to a thirty-something adult pretending to be a young child, and it is the inherent silliness that makes it all the more uncomfortable to watch.</p><p dir="ltr">This story would have crumbled with less able actors in the lead roles. Both Himesh Patel and Elizabeth Olsen make a concerted effort to show their desire to be parents even as revelations are made that push their relationship into rocky terrain. Olsen maintains composure as Virginia puts every new task before she piles up and amps the stress factor. Patel does an equally strong job of serving as the voice of calm and go-between for Mia and Virginia. As usual, Alicia Vikander is astounding as she shifts between personalities, and Virginia plays every angle in evaluating Mia and Aaryan. Vikander, echoing her nuance from her acclaimed role in&nbsp;<em>Ex Machina,</em> often had me wondering if Virginia was up to more than just assessing this couple. I was unsure if Virginia acted as herself, her child persona, or something altogether different. The dynamic between the three leads is the crux of what I found fascinating about&nbsp;<em>The Assessment.</em></p><p dir="ltr">The directorial debut from music video director Fleur Fortune, Nell Garfath-Cox and Dave Thomas wrote&nbsp;<em>The Assessment,&nbsp;</em>credited as Mrs. &amp; Mr. Thomas, alongside John Donnelly. There is a clear message at the film’s core that wants to make a statement about societal pressure on parents and commentaries on the politics of child-rearing, governmental control of human reproduction, and the perils of climate change. Many of these themes are not explored deeply enough, leaving the film feeling like it does not tackle what it wants with nearly enough depth. Much of<em> The Assessment</em> oozes with a sense of foreboding and dread that something could go wrong at any moment, and often, it does, but it never quite feels like it delves into the topics to the degree I expected. There is a fantastic sequence in the middle of the film where an unexpected dinner party results in some of the most awkward moments one could imagine. Minnie Driver steals the scene with a searing condemnation of the prospective parents and what they are doing to the world.<em> The Assessment&nbsp;</em>would have been substantially better if the entire film had been as strong as that single monologue.</p><p dir="ltr">While the film’s final twenty minutes feel like a rushed attempt to deliver a twist ending and an ambiguous conclusion,&nbsp;<em>The Assessment&nbsp;</em>does not quite live up to the quality of the three excellent performances from Elizabeth Olsen, Himesh Patel, and Alicia Vikander. There is the sense that&nbsp;<em>The Assessment&nbsp;</em>would have made a fantastic episode of Black Mirror but does not work quite as well as a feature film.<a href="https://www.instagram.com/fleurfortune/">&nbsp;Fleur Fortune</a> certainly has an eye and gives&nbsp;<em>The Assessment&nbsp;</em>a bleak, totalitarian feel that is oddly alluring and beautiful in its starkness. I applaud the ambition of the film and some of the attempts to shock the audience, but&nbsp;<em>The Assessment&nbsp;</em>is not as fully realized to work as a satire, allegory, or indictment despite wanting to be all three. It was worth watching for the performances and the excellent dinner scene, but not quite as good as it could have been.</p><p dir="ltr"><em>The Assessment&nbsp;</em>opens in theaters on&nbsp;<strong>March 21st.</strong></p>'
+      format: content_format
+  field_description:
+    -
+      value: 'The directorial debut from Fleur Fortune is a cautionary tale set in a near-dystopian future co-starring Himesh Patel and Minnie Driver.'
+  field_tags:
+    -
+      entity: bc3bf97c-88df-4f9f-ab2d-6e4037b0973d
+    -
+      entity: 09500c7a-6236-4323-8ea7-7eaeb1c2c892
+    -
+      entity: 74923176-a5ec-432f-8b43-558af5bd48c7
+  field_themes:
+    -
+      entity: 72e66d29-ccbf-47bb-86f8-1e5a9be187fc
+    -
+      entity: e22c2680-5600-4162-a967-ed96a8c45c41
+    -
+      entity: 36c4a03c-05d6-4107-8795-35bf0adc5942

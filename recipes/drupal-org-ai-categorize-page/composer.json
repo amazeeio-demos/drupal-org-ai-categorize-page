@@ -1,0 +1,9 @@
+{
+    "name": "amazeeio-demos/drupal-org-ai-categorize-page",
+    "description": "Site template composed from Drupal CMS recipes plus amazee.ai-specific additions.",
+    "type": "drupal-recipe",
+    "require": {
+        "drupal/ai_provider_amazeeio_recipe": "*",
+        "drupal/amazeeio_categorize_page": "*"
+    }
+}

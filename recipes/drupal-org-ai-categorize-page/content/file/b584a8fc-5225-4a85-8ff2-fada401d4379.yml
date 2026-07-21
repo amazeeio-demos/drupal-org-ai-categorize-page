@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b584a8fc-5225-4a85-8ff2-fada401d4379
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: ai-automator.png
+  uri:
+    -
+      value: 'public://2026-06/ai-automator.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 29783
+  status:
+    -
+      value: true

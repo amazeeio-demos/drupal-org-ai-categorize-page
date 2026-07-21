@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 82246cfa-0ae8-410f-80c1-55d3bcae08ee
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: categorization-create-basic-page-populated.png
+  uri:
+    -
+      value: 'public://2026-06/categorization-create-basic-page-populated.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 313286
+  status:
+    -
+      value: true

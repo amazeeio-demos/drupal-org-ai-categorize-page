@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 8919f645-adf9-4173-9f0f-0bdf2684b053
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: categorization-create-basic-page.png
+  uri:
+    -
+      value: 'public://2026-06/categorization-create-basic-page.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 189932
+  status:
+    -
+      value: true

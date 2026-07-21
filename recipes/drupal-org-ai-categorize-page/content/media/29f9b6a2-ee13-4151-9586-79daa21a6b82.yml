@@ -1,0 +1,35 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 29f9b6a2-ee13-4151-9586-79daa21a6b82
+  bundle: image
+  default_langcode: en
+  depends:
+    82246cfa-0ae8-410f-80c1-55d3bcae08ee: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: categorization-create-basic-page-populated.png
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: categorization-create-basic-page-populated
+      title: ''
+      width: 1600
+      height: 739
+      entity: 82246cfa-0ae8-410f-80c1-55d3bcae08ee
